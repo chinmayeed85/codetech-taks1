@@ -9,11 +9,12 @@ DOMAIN:CLOUD COMPUTING
 DURATION:4 WEEKS
 
 OVERVIEW OF THE PROJECT:
-![Screenshot (2)](https://github.com/user-attachments/assets/16048b48-b045-4852-a5ce-7d33c93418a4)
+![Screenshot (3)](https://github.com/user-attachments/assets/82b6b49c-1545-4f85-b97d-e58a5283a6f5)
+
 
 PROJECT:DEPLOYING A WEB APPLICATION ON AWS
 
-OBJECTIVES:Objectives
+Objectives
 
 Learn the Basics of Cloud Deployment: Understand how to deploy a web application using Amazon Web Services (AWS).
 
